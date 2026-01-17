@@ -1,0 +1,7 @@
+{
+  "name": "KostMaster - Manajemen & Booking Kost",
+  "description": "Platform manajemen kost lengkap dengan fitur booking, manajemen kamar, dashboard income, dan asisten AI untuk pengelola.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
